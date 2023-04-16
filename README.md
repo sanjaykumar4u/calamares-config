@@ -1,2 +1,2 @@
 # calamares-config
-Configuration file of calamares
+Configuration file for calamares
